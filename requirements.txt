@@ -1,0 +1,11 @@
+google_api_python_client==2.146.0
+gspread==6.1.2
+gspread_dataframe==4.0.0
+numpy==2.1.1
+pandas==2.2.2
+plotly==6.0.1
+protobuf==4.23.4 
+st_pages==1.0.1
+streamlit_shadcn_ui==0.1.18
+holidays==0.62
+streamlit==1.44.0

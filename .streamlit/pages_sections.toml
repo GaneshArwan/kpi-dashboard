@@ -1,0 +1,17 @@
+[[pages]]
+path = "pages/1_overview.py"
+name = "Overview"
+icon = "⚙️"
+url_path = "overview"
+
+[[pages]]
+path = "pages/2_requester_detail.py"
+name = "Requester & Approver"
+icon = "🤝"
+url_path = "requester-approver-detail"
+
+[[pages]]
+path = "pages/3_mdm_detail.py"
+name = "Master Data Management"
+icon = "📶"
+url_path = "mdm-detail"
